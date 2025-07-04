@@ -5,6 +5,7 @@ Simple [Playwright](https://playwright.dev/python/) script that launches your lo
 REQUIREMENTS:
 
 Python3.7+
+
 Playwright - pip3 install -r requirements.txt
 
 ##Setup & Usage:
