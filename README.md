@@ -8,7 +8,7 @@ Python3.7+
 
 Playwright - pip3 install -r requirements.txt
 
-##Setup & Usage:
+## Setup & Usage:
 
 1. **Install dependencies**
 
